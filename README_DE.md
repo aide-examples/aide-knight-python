@@ -1,4 +1,6 @@
-# AIDE - Knight
+# AIDE - Knight (Python-Archiv)
+
+> **Archiv.** Dieses Repository bewahrt die ursprüngliche Python-Tutorial-Version des Projekts. Die aktuelle, aktiv weiterentwickelte Variante — eine web-basierte interaktive Lehreinheit (HTML/JS + Lehrunterlage + T-Contract-Architektur) — liegt unter **[aide-examples/aide-knight](https://github.com/aide-examples/aide-knight)**.
 
 Finde einen Springerpfad auf einem Schachbrett, der jedes Feld genau einmal berührt.
 

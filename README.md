@@ -1,4 +1,6 @@
-# AIDE - Knight
+# AIDE - Knight (Python archive)
+
+> **Archive.** This repository preserves the original Python tutorial version of the project. The current, actively developed variant — a web-based interactive teaching unit (HTML/JS + Lehrunterlage + T-Contract architecture) — lives at **[aide-examples/aide-knight](https://github.com/aide-examples/aide-knight)**.
 
 Find a knight's tour on a chessboard which touches each square once.
  
